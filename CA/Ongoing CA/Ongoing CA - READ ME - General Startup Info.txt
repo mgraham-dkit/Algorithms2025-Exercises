@@ -6,7 +6,7 @@ Add a git repository to your project
 Share your project to github.
 Add me (mgraham-dkit) as a collaborator on github. There will be a short screencast showing how to do this in the CA section of moodle.
 Preparation for testing: 
-Copy the text from the dependencies.txt file (found here) and paste it into your pom.xml file. This text should be placed after the closing properties tag (</properties> and before the closing project tag (</project>)
+Copy the text from the dependencies.txt file and paste it into your pom.xml file. This text should be placed after the closing properties tag (</properties> and before the closing project tag (</project>)
 Create a package called utils in your project’s main -> java folder.
 Create a package called utils in your project’s test -> java folder.
 Add the test files supplied in the submission point to the utils package in the test folder.
